@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/ASPxPivotGrid_ShowOnlyVisibleFilterItems/Default.aspx) (VB: [Default.aspx.vb](./VB/ASPxPivotGrid_ShowOnlyVisibleFilterItems/Default.aspx.vb))
+* [Default.aspx.cs](./CS/ASPxPivotGrid_ShowOnlyVisibleFilterItems/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/ASPxPivotGrid_ShowOnlyVisibleFilterItems/Default.aspx.vb))
+<!-- default file list end -->
 # How to hide filter items whose corresponding field values are not displayed
 
 
